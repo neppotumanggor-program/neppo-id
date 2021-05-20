@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neppo-id
+- 👋 Hi, I’m Neppo from Jakarta
 - 👀 I’m interested in Point of Sales System
 - 📫 tumanggorneppo@gmail.com
 <!---
